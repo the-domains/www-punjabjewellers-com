@@ -1,7 +1,7 @@
 name: www.punjabjewellers.com
 favicon: null
-layout_spectrum: 0.4061242458410561
-typography_spectrum: 0.15201298682950437
+layout_spectrum: 0.40462
+typography_spectrum: 0.55107
 title: PUNJAB JEWELLERS
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#42221c'
+    - '#fefefe'
+    - '#a69592'
+    - '#eabd6f'
+    - '#754e2a'
   brandStrength: 0.7564589146059006
   lightness: 0.7348780771717429
   saturation: 0.36765639134682715
