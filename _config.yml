@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: www.punjabjewellers.com
 favicon: null
+name: www.punjabjewellers.com
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.55107
-layout_spectrum: 0.40462
+layout_spectrum: 0
